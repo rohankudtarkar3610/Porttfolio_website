@@ -1,3 +1,3 @@
-# Simple-Calculator
+## Simple-Calculator
 
 * anyone can contribute for this repo
